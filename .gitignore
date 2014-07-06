@@ -5,3 +5,4 @@ include
 .idea
 
 *.pyc
+*.sqlite3
